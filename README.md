@@ -1,8 +1,5 @@
-# OpenAPI Specification & Swagger Tools - Zero To Master
+# OpenAPI Specification & Swagger Tools - 
 
-[![Image](https://github.com/eazybytes/openapi/blob/main/openapi.png "OpenAPI Specification &amp; Swagger Tools - Zero To Master")](https://www.udemy.com/course/openapi-specification-swagger-tools-zero-to-master/?referralCode=F002A9A799DB126CD189)
-
-**'OpenAPI Specification & Swagger Tools - Zero To Master'** course will help in understanding about Open API Specification and how to describe, document APIs using OpenAPI & Swagger tools.
 
 ## Topics covered in the course
 
